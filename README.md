@@ -3,7 +3,7 @@
 Клонирование репозитория
 
 ```
-git clone https://github.com/Paradizeya/market-task.git
+git clone https://github.com/Paradizeya/mini-app-task.git
 ```
 
 Установить пакеты
